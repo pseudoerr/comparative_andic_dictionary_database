@@ -1,5 +1,5 @@
 # Cursor specific files
-.cursor/
+.cursor/rules/
 
 # Python files
 __pycache__/
