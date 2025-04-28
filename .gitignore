@@ -1,1 +1,14 @@
-.cursor/rules/nlp.mdc
+# Cursor specific files
+.cursor/
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+kubachi_env/
